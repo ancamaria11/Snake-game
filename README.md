@@ -5,7 +5,7 @@ Cum să faci astfel încât să joci jocul:
 2. În cmd folosește următoarele comenzi:
     - npm i http-server -g
     - http-server "locația filei index.html"
-3. După, navigheză la sever-ul local afisat la "Available on"
+3. După, navigheză la sever-ul local afisat la "Available on".
    Pentru a închide server-ul folosește comanda CTRL + C în cmd.
 
 
@@ -17,5 +17,5 @@ How to play:
     - npm i http-server -g
     - http-server "your index.html file location"
 
-After that navigate to the local server shown at "Available on"
-to close the server use CRTL + C on cmd
+After that, navigate to the local server shown at "Available on".
+In order to close the server use CRTL + C on cmd.
